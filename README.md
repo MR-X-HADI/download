@@ -1,5 +1,5 @@
 # TikTok Downloader Bot
-download TikTok videos without any watermark.
+download video Tiktok Tanpa watermark.
 
 # INSTAL
 ```
